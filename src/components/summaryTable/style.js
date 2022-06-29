@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const columnWidth = '150px';
+const columnWidth = '135px';
 
 const Container = styled.div`
   display: flex;
